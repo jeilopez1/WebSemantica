@@ -1,0 +1,237 @@
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\roslyn\System.Net.Http.dll
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\dotNetRDF.Data.Virtuoso.dll
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\dotNetRDF.dll
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\HtmlAgilityPack.dll
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\VDS.Common.dll
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\virtado4.dll
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\dotNetRDF.xml
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\dotNetRDF.Data.Virtuoso.xml
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\HtmlAgilityPack.pdb
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\HtmlAgilityPack.xml
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\VDS.Common.pdb
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\VDS.Common.xml
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\es\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\bin\es\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\DANILO\Documents\UNIVERSIDAD\2020-2\GESTION DEL CONOCIMIENTO\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\roslyn\System.Net.Http.dll
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\dotNetRDF.Data.Virtuoso.dll
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\dotNetRDF.dll
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\HtmlAgilityPack.dll
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\VDS.Common.dll
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\virtado4.dll
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\Microsoft.VisualStudio.Data.Services.dll
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\Microsoft.VisualStudio.Data.Core.dll
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\dotNetRDF.xml
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\dotNetRDF.Data.Virtuoso.xml
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\HtmlAgilityPack.pdb
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\HtmlAgilityPack.xml
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\VDS.Common.pdb
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\VDS.Common.xml
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\es\Microsoft.VisualStudio.Data.Services.resources.dll
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\bin\es\Microsoft.VisualStudio.Data.Core.resources.dll
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\Jeison\Documents\Visual Studio 2019\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\roslyn\System.Net.Http.dll
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\dotNetRDF.Data.Virtuoso.dll
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\dotNetRDF.dll
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\HtmlAgilityPack.dll
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\VDS.Common.dll
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\virtado4.dll
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\Microsoft.VisualStudio.Data.Services.dll
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\Microsoft.VisualStudio.Data.Core.dll
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\dotNetRDF.xml
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\dotNetRDF.Data.Virtuoso.xml
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\HtmlAgilityPack.pdb
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\HtmlAgilityPack.xml
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\VDS.Common.pdb
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\VDS.Common.xml
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\es\Microsoft.VisualStudio.Data.Services.resources.dll
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\bin\es\Microsoft.VisualStudio.Data.Core.resources.dll
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\Ingenieria en Sistemas\Gestion del Conocimiento\ProyectoFInal\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
